@@ -32,9 +32,4 @@ Bu projede sadece bir model geliştirmekle kalmadım, aynı zamanda aşağıdaki
 - Modeli `.h5` olarak kaydedip Flask ile dış dünyaya nasıl açarım?
 - JSON formatındaki veriyi nasıl işlerim?
 
----
-
-## 🔌 API Kullanımı
-
-### Endpoint
 
